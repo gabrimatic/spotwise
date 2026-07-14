@@ -1,3 +1,5 @@
+> **Archived.** Spotwise was a 2024 experiment (Flutter + Gemini APIs) and is no longer maintained. Kept for reference.
+
 **Spotwise: Your AI-Powered Location Scout**
 
 Spotwise is a Flutter-based mobile application that utilizes AI (powered by Gemini APIs) to revolutionize location discovery. It simplifies the process of finding the perfect spot and offers deeper insights through its interactive AI chat companion.
@@ -26,7 +28,3 @@ Spotwise is a Flutter-based mobile application that utilizes AI (powered by Gemi
 * User profiles for saved preferences and search history.
 * Integrate Gemini's image generation capabilities to visualize suggestions.
 * Social features for location sharing and reviews.
-
-**Get Involved**
-
-We welcome contributions, bug reports, and feature suggestions! Feel free to open an issue or submit a pull request.
